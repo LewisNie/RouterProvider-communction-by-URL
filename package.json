@@ -1,0 +1,19 @@
+{
+  "name": "router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisNie/RouterProvider-communction-by-URL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisNie/RouterProvider-communction-by-URL/issues"
+  },
+  "homepage": "https://github.com/LuisNie/RouterProvider-communction-by-URL#readme"
+}
